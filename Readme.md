@@ -18,6 +18,7 @@
 1. 创建 Worker
 
 登录 Cloudflare Dashboard，进入 Workers & Pages，点击 Create Application -> Create Worker。
+
 2. 配置 KV 数据库 (必须)
 
     在左侧菜单进入 Workers & Pages -> KV。
